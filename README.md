@@ -37,7 +37,7 @@ This repository is a curated portfolio of the major projects I completed during 
 
 ---
 
-## INF05010: Combinatorial Optimiztion
+## INF05010: Combinatorial Optimization
 * **[Simulated Annealing Implementation](https://github.com/jfhmunhoz/safe-carousel-optimization)**
     * **Description:** A mathematical formulation and Simulated Annealing implementation to solve the Safe Carousel Problem.
     * **Technologies:** `Shell`, `C++`, `Julia`
