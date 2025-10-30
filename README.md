@@ -15,3 +15,10 @@ This repository is a curated portfolio of the major projects I completed during 
 * **[Definitional Interpreter](https://github.com/jfhmunhoz/definitional-interpreter)**
     * **Description:** An OCaml implementation of a definitional interpreter.
     * **Technologies:** `OCaml`
+
+---
+
+## INF01151: Operating Systems II
+* **[Distributed Payment System](https://github.com/jfhmunhoz/cpp-pix-simulator)**
+    * **Description:** This project simulates a distributed payment service similar to PIX, using UDP sockets and multithreading in C++.
+    * **Technologies:** `C++`
