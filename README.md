@@ -11,6 +11,13 @@ This repository is a curated portfolio of the major projects I completed during 
 
 ---
 
+## INF01047: Fundamentals Of Computer Graphics
+* **[OpenGL FPS Game](https://github.com/jfhmunhoz/opengl-fps-game)**
+    * **Description:** This project is a first person shooter game implemented using C++ and OpenGL.
+    * **Technologies:** `C++`, `OpenGL`
+
+---
+
 ## INF01048: Artificial Intelligence
 * **[Supervised Learning](https://github.com/jfhmunhoz/supervised-learning)**
     * **Description:** Supervised Learning: Linear regression from scratch (gradient descent) and neural network experiments with TensorFlow/Keras on MNIST, Fashion MNIST, CIFAR-10, and CIFAR-100.
