@@ -1,4 +1,4 @@
-# 🎓 My University Coursework
+# My University Coursework
 
 This repository is a curated portfolio of the major projects I completed during my degree in Computer Science at UFRGS.
 
